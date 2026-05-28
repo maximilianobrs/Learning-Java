@@ -1,1 +1,50 @@
-# Learning-Java
+# Learning Java 🌱
+
+Repositorio personal enfocado en documentar todo mi proceso de aprendizaje en Java, reflejando mi evolución técnica y el dominio de la lógica de programación.
+
+Actualmente enfocado en:
+- Fundamentos de programacion
+- Programacion orientada a objetos
+- Estructuras de datos
+- Desarrollo backend progresivo
+
+# 📚 Roadmap de aprendizaje
+
+-🛠️ Fundamentos y Sintaxis
+  - [x] Variables y tipos de datos
+  - [x] Condicionales
+  - [x] Loops
+  - [x] Metodos
+  - [x] Arrays
+  
+-🧩 Programación Orientada a Objetos
+  - [x] Programacion orientada a objetos
+  - [ ] Archivos de persistencia
+  
+-🗃️ Bases de Datos y Persistencia
+  - [ ] SQL y bases de datos relacionales
+  - [ ] JDBC (Java Database Connectivity)
+  
+-🚀 Ecosistema Enterprise & Backend
+  - [ ] Spring Boot
+  - [ ] APIs REST
+  - [ ] Spring Security y JWT
+  - [ ] Docker
+
+# 📁 Estructura del repositorio
+
+```bash
+Learning-Java/
+│
+├── fundamentos/
+│   ├── variables/
+│   ├── condicionales/
+│   ├── metodos/
+│   ├── loops/
+│   └── arrays/
+│
+├── poo/
+│   └── clases-objetos/
+│
+└── README.md
+```
