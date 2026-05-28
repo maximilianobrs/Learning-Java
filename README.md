@@ -18,7 +18,7 @@ Actualmente enfocado en:
   - [x] Arrays
   
 -🧩 Programación Orientada a Objetos
-  - [x] Programacion orientada a objetos
+  - [ ] Programacion orientada a objetos
   - [ ] Archivos de persistencia
   
 -🗃️ Bases de Datos y Persistencia
