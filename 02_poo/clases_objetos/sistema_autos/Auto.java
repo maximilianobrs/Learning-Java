@@ -1,5 +1,11 @@
 package sistema_autos;
 
+/**
+ * Clase que representa un Automovil
+ * que contiene como atributos marca, modelo y velocidad maxima
+ * como tambien un metodo endencer()
+ */
+
 public class Auto {
     String marca,modelo;
     double velocidadMaxima;
@@ -10,6 +16,7 @@ public class Auto {
         this.velocidadMaxima = velocidadMaxima;
     }
 
+    //Metodo para encender el vehiculo
     public void encender(){
         System.out.println("vehicular " + this.modelo +  " encendido.");
     }
