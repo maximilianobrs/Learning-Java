@@ -1,7 +1,7 @@
 package biblioteca_libros;
 
 /**
- * Clase que representa una Libro
+ * Clase que representa un Libro
  * que contiene como atributos titulo, autor y paginas
  * como tambien unos metodos de leer() y pausar()
  */
