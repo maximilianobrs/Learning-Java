@@ -2,7 +2,7 @@ package celulares_basicos;
 
 /**
  * Clase que representa un Celular
- * que contiene como atributos marca, especie y edad
+ * que contiene como atributos marca, almacenamiento y bateria
  * como tambien unos metodos que ejecutan una accion de llamar() y cargarBateria()
  */
 
