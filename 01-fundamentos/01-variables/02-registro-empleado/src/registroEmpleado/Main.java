@@ -1,5 +1,9 @@
 package registroEmpleado;
 
+/**
+ * Programa que muestra la información de un empleado.
+ */
+
 public class Main {
     public static void main(String[] args){
         String nombre = "Marco";
@@ -11,7 +15,7 @@ public class Main {
         System.out.println("\n====INFORMACIÓN EMPLEADO====");
         System.out.println("Nombre: " + nombre);
         System.out.println("Edad: " + edad);
-        System.out.println("Sueldo: " + sueldo);
+        System.out.println("Sueldo: $" + sueldo);
         System.out.println("Categoria:" + categoria);
         System.out.println("Contrato indefinido: " + contratoIndefinido);
     }

@@ -1,5 +1,9 @@
 package registroEstudiante;
 
+/**
+ * Programa que muestra la información de un estudiante.
+ */
+
 public class Main {
     public static void main(String[] args){
 
