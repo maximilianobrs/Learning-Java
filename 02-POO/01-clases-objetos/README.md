@@ -2,12 +2,12 @@
 
 Este repositorio contiene una colección de ejercicios prácticos de Programación Orientada a Objetos (POO) en Java, enfocados en el uso de clases, objetos, constructores y el método toString().
 
-##📌 Descripción
+#📌 Descripción
 
 Cada carpeta representa un pequeño sistema o ejercicio donde se modelan objetos del mundo real, como personas, autos, videojuegos, películas y más.
 El objetivo es practicar la creación de clases y la interacción entre objetos siguiendo metadologia basica de programación.
 
-##🧠 Conceptos aplicados
+#🧠 Conceptos aplicados
 
 Clases y objetos
 
@@ -17,7 +17,7 @@ Clases y objetos
 - Método toString()
 - Ejecución en consola con Main
 
-##📁 Estructura del proyecto
+#📁 Estructura del proyecto
 ```bash
 clases-y-objetos/
  ├── personaBasica/
@@ -32,14 +32,14 @@ clases-y-objetos/
  └── cuentasBancarias/
 ```
  
-##🚀 Cómo ejecutar
+#🚀 Cómo ejecutar
 
 - Abrir el proyecto cualquier IDE de Java
 - Entrar a cualquier carpeta del ejercicio
 - Ejecutar la clase Main
 - Ver resultados en consola
 
-##🎯 Objetivo del repositorio
+#🎯 Objetivo del repositorio
 
 Fortalecer las bases de POO en Java mediante ejercicios simples, preparando el camino para conceptos más avanzados como:
 
@@ -48,6 +48,6 @@ Fortalecer las bases de POO en Java mediante ejercicios simples, preparando el c
 - Polimorfismo
 - Abstracción
 
-##👨‍💻 Autor
+#👨‍💻 Autor
 
 Repositorio de práctica personal de Java POO
