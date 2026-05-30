@@ -1,5 +1,7 @@
 package registroVehiculo;
-
+/**
+ * Programa que muestra la información de un vehiculo.
+ */
 public class Main {
     public static void main(String[] args){
         String marca = "Toyota";
