@@ -20,16 +20,16 @@ Clases y objetos
 #📁 Estructura del proyecto
 ```bash
 clases-y-objetos/
- ├── persona-basica/
- ├── sistema-autos/
- ├── catalogo-videojuegos/
- ├── peliculas-basicas/
- ├── biblioteca-libros/
- ├── estudiantes-basicos/
- ├── mascotas-basicas/
- ├── celulares-basicos/
- ├── computadores-basicos/
- └── cuentas-bancarias/
+ ├── persona_basica/
+ ├── sistema_autos/
+ ├── catalogo_videojuegos/
+ ├── peliculas_basicas/
+ ├── biblioteca_libros/
+ ├── estudiantes_basicos/
+ ├── mascotas_basicas/
+ ├── celulares_basicos/
+ ├── computadores_basicos/
+ └── cuentas_bancarias/
 ```
  
 #🚀 Cómo ejecutar
