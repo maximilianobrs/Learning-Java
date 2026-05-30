@@ -16,6 +16,7 @@ Método toString()
 Ejecución en consola con Main
 
 #📁 Estructura del proyecto
+```bash
 clases-y-objetos/
  ├── persona-basica/
  ├── sistema-autos/
@@ -27,6 +28,7 @@ clases-y-objetos/
  ├── celulares-basicos/
  ├── computadores-basicos/
  └── cuentas-bancarias/
+```
  
 #🚀 Cómo ejecutar
 Abrir el proyecto cualquier IDE de Java
