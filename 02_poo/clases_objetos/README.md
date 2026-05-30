@@ -5,7 +5,7 @@ Este repositorio contiene una colección de ejercicios prácticos de Programaci�
 #📌 Descripción
 
 Cada carpeta representa un pequeño sistema o ejercicio donde se modelan objetos del mundo real, como personas, autos, videojuegos, películas y más.
-El objetivo es practicar la creación de clases y la interacción entre objetos la cual tiene un sistema de ejecucion basico de programación.
+El objetivo es practicar la creación de clases y la interacción entre objetos siguiendo metadologia basica de programación.
 
 #🧠 Conceptos aplicados
 Clases y objetos
