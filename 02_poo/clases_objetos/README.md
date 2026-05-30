@@ -48,6 +48,6 @@ Fortalecer las bases de POO en Java mediante ejercicios simples, preparando el c
 - Polimorfismo
 - Abstracción
 
-##👨‍💻 Autor
+#👨‍💻 Autor
 
 Repositorio de práctica personal de Java POO
