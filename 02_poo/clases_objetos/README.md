@@ -9,12 +9,13 @@ El objetivo es practicar la creación de clases y la interacción entre objetos 
 
 #🧠 Conceptos aplicados
 
--Clases y objetos
--Atributos
--Constructores
--Métodos de instancia
--Método toString()
--Ejecución en consola con Main
+Clases y objetos
+
+- Atributos
+- Constructores
+- Métodos de instancia
+- Método toString()
+- Ejecución en consola con Main
 
 #📁 Estructura del proyecto
 ```bash
@@ -33,19 +34,19 @@ clases-y-objetos/
  
 #🚀 Cómo ejecutar
 
--Abrir el proyecto cualquier IDE de Java
--Entrar a cualquier carpeta del ejercicio
--Ejecutar la clase Main
--Ver resultados en consola
+- Abrir el proyecto cualquier IDE de Java
+- Entrar a cualquier carpeta del ejercicio
+- Ejecutar la clase Main
+- Ver resultados en consola
 
 #🎯 Objetivo del repositorio
 
 Fortalecer las bases de POO en Java mediante ejercicios simples, preparando el camino para conceptos más avanzados como:
 
--Encapsulamiento
--Herencia
--Polimorfismo
--Abstracción
+- Encapsulamiento
+- Herencia
+- Polimorfismo
+- Abstracción
 
 ##👨‍💻 Autor
 
