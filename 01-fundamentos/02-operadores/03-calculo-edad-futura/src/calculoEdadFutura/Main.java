@@ -2,7 +2,7 @@ package calculoEdadFutura;
 
 /**
  * Clase principal para el cálculo proyectado de la edad de un usuario.
- * Demuestra la aplicación de operadores aritméticos simples para la actualización de datos.
+ * Aplicación de operadores aritméticos simples para la actualización de datos.
  */
 
 public class Main {
