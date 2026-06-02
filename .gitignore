@@ -6,6 +6,7 @@
 out/
 target/
 build/
+02_poo/
 
 #Archivos compilados Java,
 *.class
