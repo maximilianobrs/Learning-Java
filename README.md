@@ -36,15 +36,15 @@ Actualmente enfocado en:
 ```bash
 Learning-Java/
 │
-├── fundamentos/
-│   ├── variables/
-│   ├── condicionales/
-│   ├── metodos/
-│   ├── loops/
-│   └── arrays/
+├── 01-fundamentos/
+│   ├── 01-variables/
+│   ├── 02-operadores/
+│   ├── 03-condicionales/
+│   ├── 04-ciclos/
+│   └── 05-arrays/
 │
-├── poo/
-│   └── clases-objetos/
+├── 02-poo/
+│   └── 01-clases-objetos/
 │
 └── README.md
 ```
